@@ -1,6 +1,6 @@
 # Project Lab 13: Linear-Regression
 
-We are deployed on [Link](https://github.com/kevinhenry/linear-regression)
+Deployed on: [Link](https://github.com/kevinhenry/linear-regression)
 
 PR: [Link](https://github.com/kevinhenry/linear-regression/pulls)
 
