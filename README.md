@@ -1,4 +1,3 @@
-# linear-regression
 # Project Lab 13: Linear-Regression
 
 We are deployed on [Link](https://github.com/kevinhenry/linear-regression)
